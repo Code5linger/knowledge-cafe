@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "cover": "https://example.com/covers/1.jpg",
+    "title": "The Art of Programming",
+    "author_img": "https://example.com/authors/john.jpg",
+    "author": "John Smith",
+    "posted_date": "2023-05-15",
+    "reading_time": "8 min",
+    "hashtag": "#programming"
+  },
+  {
+    "id": 2,
+    "cover": "https://example.com/covers/2.jpg",
+    "title": "Modern Web Design",
+    "author_img": "https://example.com/authors/sarah.jpg",
+    "author": "Sarah Johnson",
+    "posted_date": "2023-06-22",
+    "reading_time": "5 min",
+    "hashtag": "#design"
+  },
+  {
+    "id": 3,
+    "cover": "https://example.com/covers/3.jpg",
+    "title": "Data Science Fundamentals",
+    "author_img": "https://example.com/authors/mike.jpg",
+    "author": "Mike Chen",
+    "posted_date": "2023-07-10",
+    "reading_time": "12 min",
+    "hashtag": "#datascience"
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/covers/4.jpg",
+    "title": "Healthy Cooking at Home",
+    "author_img": "https://example.com/authors/emma.jpg",
+    "author": "Emma Wilson",
+    "posted_date": "2023-08-05",
+    "reading_time": "6 min",
+    "hashtag": "#food"
+  },
+  {
+    "id": 5,
+    "cover": "https://example.com/covers/5.jpg",
+    "title": "Travel Photography Tips",
+    "author_img": "https://example.com/authors/david.jpg",
+    "author": "David Lee",
+    "posted_date": "2023-09-18",
+    "reading_time": "7 min",
+    "hashtag": "#photography"
+  },
+  {
+    "id": 6,
+    "cover": "https://example.com/covers/6.jpg",
+    "title": "Financial Independence",
+    "author_img": "https://example.com/authors/lisa.jpg",
+    "author": "Lisa Rodriguez",
+    "posted_date": "2023-10-30",
+    "reading_time": "10 min",
+    "hashtag": "#finance"
+  },
+  {
+    "id": 7,
+    "cover": "https://example.com/covers/7.jpg",
+    "title": "Mindfulness Meditation",
+    "author_img": "https://example.com/authors/robert.jpg",
+    "author": "Robert Brown",
+    "posted_date": "2023-11-12",
+    "reading_time": "4 min",
+    "hashtag": "#wellness"
+  },
+  {
+    "id": 8,
+    "cover": "https://example.com/covers/8.jpg",
+    "title": "AI and the Future",
+    "author_img": "https://example.com/authors/priya.jpg",
+    "author": "Priya Patel",
+    "posted_date": "2023-12-01",
+    "reading_time": "9 min",
+    "hashtag": "#technology"
+  },
+  {
+    "id": 9,
+    "cover": "https://example.com/covers/9.jpg",
+    "title": "Sustainable Living",
+    "author_img": "https://example.com/authors/tom.jpg",
+    "author": "Tom Green",
+    "posted_date": "2024-01-15",
+    "reading_time": "6 min",
+    "hashtag": "#sustainability"
+  },
+  {
+    "id": 10,
+    "cover": "https://example.com/covers/10.jpg",
+    "title": "Fitness for Beginners",
+    "author_img": "https://example.com/authors/anna.jpg",
+    "author": "Anna Taylor",
+    "posted_date": "2024-02-20",
+    "reading_time": "5 min",
+    "hashtag": "#fitness"
+  }
+]
